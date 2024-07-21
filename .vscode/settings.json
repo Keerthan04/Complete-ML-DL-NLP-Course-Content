@@ -1,3 +1,10 @@
 {
-  "cSpell.words": ["nltk", "Treebank", "wordpunct"]
+  "cSpell.words": [
+    "lemmatize",
+    "lemmatizer",
+    "nltk",
+    "Stopwords",
+    "Treebank",
+    "wordpunct"
+  ]
 }
